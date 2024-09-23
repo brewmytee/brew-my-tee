@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/brew-my-tee/static/css/main.f855e6bc.css",
+    "main.js": "/brew-my-tee/static/js/main.1f25aab5.js",
+    "static/js/453.8ee3c4a5.chunk.js": "/brew-my-tee/static/js/453.8ee3c4a5.chunk.js",
+    "static/media/logo.svg": "/brew-my-tee/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/brew-my-tee/index.html",
+    "main.f855e6bc.css.map": "/brew-my-tee/static/css/main.f855e6bc.css.map",
+    "main.1f25aab5.js.map": "/brew-my-tee/static/js/main.1f25aab5.js.map",
+    "453.8ee3c4a5.chunk.js.map": "/brew-my-tee/static/js/453.8ee3c4a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.1f25aab5.js"
+  ]
+}
