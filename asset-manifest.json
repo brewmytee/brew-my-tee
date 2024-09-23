@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/brewmytee/static/css/main.6fca4f37.css",
-    "main.js": "/brewmytee/static/js/main.fe307da5.js",
-    "static/js/453.8ee3c4a5.chunk.js": "/brewmytee/static/js/453.8ee3c4a5.chunk.js",
-    "index.html": "/brewmytee/index.html",
-    "main.6fca4f37.css.map": "/brewmytee/static/css/main.6fca4f37.css.map",
-    "main.fe307da5.js.map": "/brewmytee/static/js/main.fe307da5.js.map",
-    "453.8ee3c4a5.chunk.js.map": "/brewmytee/static/js/453.8ee3c4a5.chunk.js.map"
+    "main.css": "/static/css/main.6fca4f37.css",
+    "main.js": "/static/js/main.9271971a.js",
+    "static/js/453.8ee3c4a5.chunk.js": "/static/js/453.8ee3c4a5.chunk.js",
+    "index.html": "/index.html",
+    "main.6fca4f37.css.map": "/static/css/main.6fca4f37.css.map",
+    "main.9271971a.js.map": "/static/js/main.9271971a.js.map",
+    "453.8ee3c4a5.chunk.js.map": "/static/js/453.8ee3c4a5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6fca4f37.css",
-    "static/js/main.fe307da5.js"
+    "static/js/main.9271971a.js"
   ]
 }
