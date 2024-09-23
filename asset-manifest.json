@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/brew-my-tee/static/css/main.6fca4f37.css",
-    "main.js": "/brew-my-tee/static/js/main.2a0c4de4.js",
-    "static/js/453.8ee3c4a5.chunk.js": "/brew-my-tee/static/js/453.8ee3c4a5.chunk.js",
-    "index.html": "/brew-my-tee/index.html",
-    "main.6fca4f37.css.map": "/brew-my-tee/static/css/main.6fca4f37.css.map",
-    "main.2a0c4de4.js.map": "/brew-my-tee/static/js/main.2a0c4de4.js.map",
-    "453.8ee3c4a5.chunk.js.map": "/brew-my-tee/static/js/453.8ee3c4a5.chunk.js.map"
+    "main.css": "/brewmytee/static/css/main.6fca4f37.css",
+    "main.js": "/brewmytee/static/js/main.fe307da5.js",
+    "static/js/453.8ee3c4a5.chunk.js": "/brewmytee/static/js/453.8ee3c4a5.chunk.js",
+    "index.html": "/brewmytee/index.html",
+    "main.6fca4f37.css.map": "/brewmytee/static/css/main.6fca4f37.css.map",
+    "main.fe307da5.js.map": "/brewmytee/static/js/main.fe307da5.js.map",
+    "453.8ee3c4a5.chunk.js.map": "/brewmytee/static/js/453.8ee3c4a5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6fca4f37.css",
-    "static/js/main.2a0c4de4.js"
+    "static/js/main.fe307da5.js"
   ]
 }
